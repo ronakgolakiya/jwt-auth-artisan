@@ -9,7 +9,6 @@
             "email": "ronakgolakiya12@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require-dev": {
         "phpspec/phpspec": "^7.3"
     },
@@ -18,7 +17,7 @@
             "GenTux\\Jwt\\": "src/"
         }
     },
-    "require": {
+    "require": {    
         "firebase/php-jwt": "^6.4",
         "illuminate/http": "^9.52",
         "illuminate/support": "^9.52"
