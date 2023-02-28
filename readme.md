@@ -31,7 +31,7 @@ Which is why JWT makes you feel like
 
 Install the package using composer
 
-    $ composer require generationtux/jwt-artisan
+    $ composer require ronakgolakiya/jwt-auth-artisan
 
 Add the appropriate service provider for Laravel/Lumen
 
